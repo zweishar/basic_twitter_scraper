@@ -8,7 +8,7 @@ import urllib2
 
 # Get results from the Twitter API! Change QUERY to your search term of choice. 
 # Examples: 'PCC "Police Commissioner"
-QUERY = 'Impact Investment'
+QUERY = 'Beer'
 RESULTS_PER_PAGE = '100'
 LANGUAGE = 'eng'
 NUM_PAGES = 20 
